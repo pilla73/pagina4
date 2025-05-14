@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>Ejemplo 5<TITLE>
+
 </HEAD>
 <BODY>
 <P align="left">Este parrafo esta alineado a la izquierda . En la practica, equivale sencillamente a la misma etiqueta sin indicacion de alineacion.</P>
